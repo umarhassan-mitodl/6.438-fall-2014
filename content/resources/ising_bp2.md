@@ -5,6 +5,8 @@ description: "This resource contains the information related to Images for Probl
 file: /courses/6-438-algorithms-for-inference-fall-2014/c0326ac2f4168f078c606a8c8a0e8562_ising_bp2.m
 file_size: 1944
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

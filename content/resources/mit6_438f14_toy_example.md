@@ -5,6 +5,8 @@ description: This resource contains the information regarding Recitation Notes o
 file: /courses/6-438-algorithms-for-inference-fall-2014/d3b1ed6a16d671027764472bce600df4_MIT6_438F14_Toy_Example.pdf
 file_size: 1220188
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
