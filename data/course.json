@@ -32,7 +32,6 @@
     "website": "6-438-algorithms-for-inference-fall-2014"
   },
   "course_title": "Algorithms for Inference",
-  "hide_download": true,
   "course_description": "This is a graduate-level introduction to the principles of statistical inference with probabilistic models defined using graphical representations. The material in this course constitutes a common foundation for work in machine learning, signal processing, artificial intelligence, computer vision, control, and communication. Ultimately, the subject is about teaching you contemporary approaches to, and perspectives on, problems of statistical inference.\n",
   "department_numbers": [
     "6"
@@ -43,7 +42,6 @@
     "content": "5b3b9208-a6a7-d0f4-f6c7-1d91ea35ee1b",
     "website": "6-438-algorithms-for-inference-fall-2014"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets",

@@ -4,8 +4,6 @@ description: This file contains information regarding preliminaries.
 file: /courses/6-438-algorithms-for-inference-fall-2014/cf6def356f49f232190b1bfa5e9996dd_MIT6_438F14_Preliminaries.pdf
 file_size: 252259
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
